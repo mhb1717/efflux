@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+h5py
+datasets
+transformers[torch]
+biopython
+evaluate
