@@ -29,7 +29,7 @@ Compute Position-Specific Scoring Matrix (PSSM) features from the generated or c
 ---
 
 ### **Step 5: Create a Multi-scale Windows mCNN Input**  
-Use a sliding window approach to create multi-scale input data for the mCNN model.
+Use a sliding window approach to create multi-scale input data for the mCNN model  run  train.ipynb.
 
-**Example script:**
+
 
