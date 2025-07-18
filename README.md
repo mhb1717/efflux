@@ -1,6 +1,6 @@
 # **GenEffllux**
 
-![Grad-CAM or Cosine Similarity Plot](https://github.com/mhb1717/efflux/blob/main/Group%2080%20(1).png?raw=true)
+![Grad-CAM or Cosine Similarity Plot](https://github.com/mhb1717/efflux/blob/main/Graphical%20Abstract.png?raw=true)
 
 **GenEffllux** is a deep learning-based pipeline designed to generate and analyze protein sequences related to efflux mechanisms using fine-tuned ProtGPT2, multi-scale feature extraction, and mCNN architectures.
 
